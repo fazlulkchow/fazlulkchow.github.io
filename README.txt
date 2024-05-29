@@ -1,2 +1,2 @@
-**Portfolio of Fazlul Karim Chowdhury**
+# Portfolio of Fazlul Karim Chowdhury 
 http://www.fazlulkchow.github.io
